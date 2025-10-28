@@ -1,0 +1,7 @@
+post_id,title,points,comments_count,method,cluster,cluster_category,cluster_mean_points
+45643163,Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system,422,265,selenium,1,High-Upvote Cluster,280.0
+45617948,Show HN: I'm making a detective game built on Wikipedia,87,16,selenium,1,High-Upvote Cluster,280.0
+45653143,Language Support for Marginalia Search,55,6,beautifulsoup,0,High-Upvote Cluster,288.375
+45640838,AWS multiple services outage in us-east-1,1922,1889,beautifulsoup,2,Mid-Upvote Cluster,211.1818181818182
+45647166,Claude Code on the web,465,62,api,0,High-Upvote Cluster,288.375
+45617948,Show HN: I'm making a detective game built on Wikipedia,87,16,api,3,Low-Upvote Cluster,180.55555555555554

@@ -1,0 +1,330 @@
+[
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/topstories.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 843.9658550000786,
+    "bytes_read": 4501,
+    "timestamp": 1761036885.2678697
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653143.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 214.10909300038838,
+    "bytes_read": 242,
+    "timestamp": 1761036885.692368
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653780.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 251.08872400005566,
+    "bytes_read": 622,
+    "timestamp": 1761036886.1507835
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45640838.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 856.1897610002234,
+    "bytes_read": 3360,
+    "timestamp": 1761036886.3361626
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653330.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 852.5919640001121,
+    "bytes_read": 236,
+    "timestamp": 1761036886.3418293
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45652859.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 860.3963319997092,
+    "bytes_read": 226,
+    "timestamp": 1761036886.342491
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653350.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 881.0402260000956,
+    "bytes_read": 1077,
+    "timestamp": 1761036886.3679597
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45632429.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 213.81652799982476,
+    "bytes_read": 345,
+    "timestamp": 1761036886.568515
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45643848.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 213.69908599990595,
+    "bytes_read": 822,
+    "timestamp": 1761036886.7546616
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653789.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 212.01855300023453,
+    "bytes_read": 346,
+    "timestamp": 1761036886.758881
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653293.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 213.44056599991745,
+    "bytes_read": 870,
+    "timestamp": 1761036886.7704241
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653763.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 211.89190099994448,
+    "bytes_read": 399,
+    "timestamp": 1761036886.7850006
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45651413.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 224.40344799997547,
+    "bytes_read": 817,
+    "timestamp": 1761036887.006751
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45617948.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 210.81402500021795,
+    "bytes_read": 451,
+    "timestamp": 1761036887.1760654
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45584680.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 210.21902399979808,
+    "bytes_read": 233,
+    "timestamp": 1761036887.1773326
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45643163.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 212.7733420002187,
+    "bytes_read": 642,
+    "timestamp": 1761036887.1890707
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45645349.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 219.0605929999947,
+    "bytes_read": 498,
+    "timestamp": 1761036887.2144458
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45644328.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 207.9390600001716,
+    "bytes_read": 353,
+    "timestamp": 1761036887.4247503
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653702.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 213.02584699969884,
+    "bytes_read": 671,
+    "timestamp": 1761036887.590831
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653792.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 212.12893399979293,
+    "bytes_read": 1072,
+    "timestamp": 1761036887.5988073
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45644776.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 214.23246399990603,
+    "bytes_read": 457,
+    "timestamp": 1761036887.6098037
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45646532.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 211.67168499960098,
+    "bytes_read": 870,
+    "timestamp": 1761036887.6267233
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45644944.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 214.56280199981848,
+    "bytes_read": 801,
+    "timestamp": 1761036887.8495495
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45578080.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 211.81068399982905,
+    "bytes_read": 281,
+    "timestamp": 1761036888.0132453
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45555960.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 210.2241619995766,
+    "bytes_read": 247,
+    "timestamp": 1761036888.0220008
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45571423.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 217.64060399982554,
+    "bytes_read": 375,
+    "timestamp": 1761036888.027805
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45647166.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 217.83893700012413,
+    "bytes_read": 759,
+    "timestamp": 1761036888.055583
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45529120.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 213.16061099969374,
+    "bytes_read": 280,
+    "timestamp": 1761036888.2739995
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653813.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 210.74499299993477,
+    "bytes_read": 601,
+    "timestamp": 1761036888.4336507
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45653361.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 214.8147340003561,
+    "bytes_read": 728,
+    "timestamp": 1761036888.439129
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45651001.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 217.07277599989538,
+    "bytes_read": 1414,
+    "timestamp": 1761036888.4543357
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45648422.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 215.11693299999024,
+    "bytes_read": 1556,
+    "timestamp": 1761036888.4827366
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45651814.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 215.1693939999859,
+    "bytes_read": 550,
+    "timestamp": 1761036888.6929433
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45645120.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 225.6318449999526,
+    "bytes_read": 2254,
+    "timestamp": 1761036888.8711271
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45582958.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 215.41404200024772,
+    "bytes_read": 424,
+    "timestamp": 1761036888.880817
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45649178.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 232.80057800002396,
+    "bytes_read": 665,
+    "timestamp": 1761036888.881921
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45650792.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 215.4517459998715,
+    "bytes_read": 282,
+    "timestamp": 1761036888.9087899
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45650861.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 222.76333599984355,
+    "bytes_read": 1065,
+    "timestamp": 1761036889.3060656
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45649891.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 224.57608600007006,
+    "bytes_read": 560,
+    "timestamp": 1761036889.306559
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45650267.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 233.0109919998904,
+    "bytes_read": 893,
+    "timestamp": 1761036889.3188832
+  },
+  {
+    "url": "https://hacker-news.firebaseio.com/v0/item/45652992.json",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 214.47778299989295,
+    "bytes_read": 428,
+    "timestamp": 1761036889.3345664
+  }
+]

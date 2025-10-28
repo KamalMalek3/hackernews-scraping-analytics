@@ -1,0 +1,61 @@
+Project
+Analyzing Website Data Collection Efficiency and Network Behavior
+Using Multiple Web Scraping Techniques
+Project Criteria:
+1. Implement three scraping methods: Selenium, BeautifulSoup (BS4), and API-based
+scraping.
+2. Compare performance and network characteristics of each method (speed, bandwidth,
+number of requests, latency).
+3. Secure their scrapers using Linux firewall rules, proxy servers, and responsible rate
+limiting.
+4. Perform data analysis on the collected dataset — prediction, classification, or trend
+analysis using ML techniques.
+5. Present an optimization report recommending the best scraping strategy for efficiency
+and stability.
+Sections
+1. Setup & Target Definition – Choose website and define data to collect (e.g., prices,
+news, sports stats).
+2. Implementation Phase 1: Selenium, BS4, and API scraping modules. (if API exists)
+3. Networking Observation: Measure and compare behavior using ss, iftop, tcpdump, and
+Wireshark. Apply ufw and proxies(optional).
+4. Data Cleaning & Analysis: Prepare dataset and apply ML techniques (e.g., regression,
+clustering, classification).
+5. Optimization Report & Presentation: Summarize findings — best method, performance.
+Step-By-Step (Technically)
+1. Scraping:
+a. Selenium scraper (browser-based, handles JS-heavy sites)
+b. BS4 scraper (simple HTML parsing)
+c. API scraper (direct structured data access)
+d. Collect the same data fields
+e. Save to CSV
+2. Networking: using linux tools to mesure:
+a. Connections: ss -t -a | grep python
+b. Bandwidth: iftop, nload
+c. Packets: tcpdump -i any port 80 or 443 -w scraper_trace.pcap
+d. Firewall control: ufw deny out to any port 443 to simulate blocked HTTPS
+Metrics to record: Method, bandwidth(KB), time(s), #requests, avg latency(ms)
+3. Security:
+a. Block/allow ports with ufw
+b. Use multithreading
+c. Configure proxy (Squid/Tor) – Optional
+4. Data Analysis Layer (Python / Colab / PyCharm):
+a. Perform Exploratory Data Analysis (EDA) (pandas, matplotlib, seaborn)
+b. Apply ML models depending on dataset type:
+i. Regression: Predict price evolution, popularity, or time-based trends
+ii. Classification: Categorize items (e.g., positive/negative sentiment,
+product type)
+iii. Clustering: Detect similar entries (e.g., K-Means)
+5. Deliverables:
+a. Repository with:
+i. Three scraper scripts
+ii. Networking analysis notebook (with screenshots)
+iii. ML notebook (Jupyter or Colab)
+iv. Final report (PDF)
+b. Final presentation (10 min) showing:
+i. Comparative charts of performance
+ii. Visualized network traces
+iii. ML model results
+
+website chosen: https://news.ycombinator.com/
+data to collect: Post titles, upvotes (points), number of comments, user profiles, and comment text.
+data analysis idea: Predict Post Success: Analyze titles to find which keywords or structures (e.g., questions) lead to the most upvotes and comments.

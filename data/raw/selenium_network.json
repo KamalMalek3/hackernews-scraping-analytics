@@ -1,0 +1,1026 @@
+[
+  {
+    "url": "",
+    "method": "GET",
+    "status_code": 0,
+    "elapsed_ms": 0.0,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2827492
+  },
+  {
+    "url": "https://news.ycombinator.com/",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 1131.727999999839,
+    "bytes_read": 6321,
+    "timestamp": 1761036937.2831454
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 274.03599999979633,
+    "bytes_read": 2012,
+    "timestamp": 1761036937.2833014
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 279.36799999997675,
+    "bytes_read": 512,
+    "timestamp": 1761036937.2834744
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 292.0630000003257,
+    "bytes_read": 234,
+    "timestamp": 1761036937.2835307
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 272.84199999985503,
+    "bytes_read": 2163,
+    "timestamp": 1761036937.2836363
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 253.2099999998536,
+    "bytes_read": 327,
+    "timestamp": 1761036937.283727
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.157999999984895,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2838213
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.757999999739695,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2840934
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 46.07900000019072,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2841716
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 52.78199999975186,
+    "bytes_read": 0,
+    "timestamp": 1761036937.284214
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 37.36299999991388,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2842555
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45653143",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 267.30399999996735,
+    "bytes_read": 3791,
+    "timestamp": 1761036937.2842636
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 45.112999999673775,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2843049
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.578000000037719,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2846787
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.95699999964927,
+    "bytes_read": 0,
+    "timestamp": 1761036937.284727
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 13.288999999986117,
+    "bytes_read": 0,
+    "timestamp": 1761036937.284769
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.644999999982247,
+    "bytes_read": 0,
+    "timestamp": 1761036937.284838
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45640838",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2131.7730000000665,
+    "bytes_read": 359996,
+    "timestamp": 1761036937.2849774
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.434000000197557,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2850268
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.295000000089203,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2852964
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.717000000160624,
+    "bytes_read": 0,
+    "timestamp": 1761036937.285343
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 11.763999999857333,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2853906
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.136999999900581,
+    "bytes_read": 0,
+    "timestamp": 1761036937.28546
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45652859",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 409.74000000005617,
+    "bytes_read": 5971,
+    "timestamp": 1761036937.2854695
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.495999999922788,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2855158
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.381999999826803,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2858436
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.242000000383996,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2858956
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 16.798000000108004,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2859373
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.159000000119704,
+    "bytes_read": 0,
+    "timestamp": 1761036937.286096
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.349999999907595,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2861412
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45653350",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 317.90699999965,
+    "bytes_read": 3451,
+    "timestamp": 1761036937.28615
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.776999999805412,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2863727
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 10.115000000041618,
+    "bytes_read": 0,
+    "timestamp": 1761036937.286411
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 11.841999999887776,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2864482
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.967999999986205,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2865045
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45653330",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 335.4719999997542,
+    "bytes_read": 2554,
+    "timestamp": 1761036937.286512
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 9.334999999737192,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2865496
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.6120000001792505,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2867663
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.6080000001893495,
+    "bytes_read": 0,
+    "timestamp": 1761036937.286803
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 13.593000000128086,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2868392
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.577000000201224,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2869012
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.722000000128901,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2869396
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45632429",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 510.92000000016924,
+    "bytes_read": 18831,
+    "timestamp": 1761036937.286947
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.62599999991653,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2871568
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.071000000043568,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2871933
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 11.34600000023056,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2872298
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.562999999961903,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2872841
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.087000000003172,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2873213
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45617948",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 410.5490000001737,
+    "bytes_read": 5171,
+    "timestamp": 1761036937.2873282
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.227999999940948,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2875361
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.2300000001632725,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2875736
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 13.0500000000211,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2877362
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.505999999561027,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2878406
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.829000000128872,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2878892
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45584680",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 395.27200000020457,
+    "bytes_read": 3211,
+    "timestamp": 1761036937.2878966
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.096999999954278,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2881646
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.7809999998426065,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2882164
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 17.15199999989636,
+    "bytes_read": 0,
+    "timestamp": 1761036937.288264
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.7770000003547466,
+    "bytes_read": 0,
+    "timestamp": 1761036937.288335
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45643163",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 784.5110000002933,
+    "bytes_read": 64161,
+    "timestamp": 1761036937.2883866
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.661000000396598,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2884257
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.861000000095373,
+    "bytes_read": 0,
+    "timestamp": 1761036937.288869
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.378999999877124,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2892046
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 17.92799999975614,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2893023
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.879999999706342,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2894137
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.295000000136497,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2894716
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45645349",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 506.56100000014703,
+    "bytes_read": 21511,
+    "timestamp": 1761036937.2894824
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.76199999977689,
+    "bytes_read": 0,
+    "timestamp": 1761036937.289897
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.872999999766762,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2899442
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 14.672000000246044,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2899852
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.046000000016647,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2900507
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.479000000079395,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2900908
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45555960",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 366.265999999996,
+    "bytes_read": 3146,
+    "timestamp": 1761036937.2900987
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.827000000157568,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2903447
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.411999999978434,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2903879
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 12.646999999560649,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2904286
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.040000000055443,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2904975
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.000999999789201,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2905405
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45644328",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 528.7789999997585,
+    "bytes_read": 25725,
+    "timestamp": 1761036937.290549
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.091000000149506,
+    "bytes_read": 0,
+    "timestamp": 1761036937.290806
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.2000000000116415,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2908475
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 12.529999999969732,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2908878
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.176000000119529,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2909496
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.857000000105472,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2909918
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45578080",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 262.75200000009136,
+    "bytes_read": 5045,
+    "timestamp": 1761036937.2910008
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.110000000011496,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2913275
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 8.176000000275963,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2913768
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 14.474999999947613,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2914217
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.545999999711057,
+    "bytes_read": 0,
+    "timestamp": 1761036937.291485
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.628999999975349,
+    "bytes_read": 0,
+    "timestamp": 1761036937.291526
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45571423",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 374.95799999987867,
+    "bytes_read": 12096,
+    "timestamp": 1761036937.2915351
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.918999999972584,
+    "bytes_read": 0,
+    "timestamp": 1761036937.291764
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.367000000002008,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2918084
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 12.757999999848835,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2918515
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.114999999728752,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2919173
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45647166",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 912.9880000000412,
+    "bytes_read": 70105,
+    "timestamp": 1761036937.291956
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.198000000087632,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2920182
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.718999999771768,
+    "bytes_read": 0,
+    "timestamp": 1761036937.292254
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.625000000189175,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2928536
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 15.50100000031307,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2929564
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.157999999984895,
+    "bytes_read": 0,
+    "timestamp": 1761036937.293078
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.222999999659805,
+    "bytes_read": 0,
+    "timestamp": 1761036937.293141
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45529120",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 398.59599999999773,
+    "bytes_read": 5831,
+    "timestamp": 1761036937.293153
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.793999999696098,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2934713
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.31599999996979,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2935166
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 12.980999999854248,
+    "bytes_read": 0,
+    "timestamp": 1761036937.293557
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.24400000024616,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2936234
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.089000000178203,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2936664
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45645120",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 435.6929999999011,
+    "bytes_read": 8381,
+    "timestamp": 1761036937.293677
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.586000000268541,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2939248
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 3.8559999998142303,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2939672
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 10.844999999790161,
+    "bytes_read": 0,
+    "timestamp": 1761036937.294009
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.21800000008443,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2940695
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45649178",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 909.0339999997923,
+    "bytes_read": 71447,
+    "timestamp": 1761036937.29411
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4.351999999926193,
+    "bytes_read": 0,
+    "timestamp": 1761036937.294167
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.454999999983556,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2943664
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.279999999856955,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2944026
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 15.712999999777821,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2944386
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.8250000000298314,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2944934
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45582958",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 547.1189999998387,
+    "bytes_read": 29251,
+    "timestamp": 1761036937.2945216
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.02999999964959,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2945595
+  },
+  {
+    "url": "https://news.ycombinator.com/news.css?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 6.620000000111759,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2948377
+  },
+  {
+    "url": "https://news.ycombinator.com/y18.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 5.798000000140746,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2948768
+  },
+  {
+    "url": "https://news.ycombinator.com/s.gif",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 12.893999999960215,
+    "bytes_read": 0,
+    "timestamp": 1761036937.294913
+  },
+  {
+    "url": "https://news.ycombinator.com/triangle.svg",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2.6109999998880085,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2949698
+  },
+  {
+    "url": "https://news.ycombinator.com/hn.js?3tOsbttX3vuM3ZnQeH2C",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 7.687000000260014,
+    "bytes_read": 0,
+    "timestamp": 1761036937.2950065
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45650792",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 268.28400000022157,
+    "bytes_read": 4643,
+    "timestamp": 1761036937.2950141
+  }
+]
