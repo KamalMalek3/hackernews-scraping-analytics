@@ -3,168 +3,240 @@
     "url": "https://news.ycombinator.com/",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 2275.5671110003277,
-    "bytes_read": 34817,
-    "timestamp": 1761036855.651787
+    "elapsed_ms": 1339.058772000044,
+    "bytes_read": 34754,
+    "timestamp": 1761733263.8353393
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45653143",
+    "url": "https://news.ycombinator.com/item?id=45742488",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 246.53724100016916,
-    "bytes_read": 12672,
-    "timestamp": 1761036856.4342928
+    "elapsed_ms": 966.7876859998614,
+    "bytes_read": 358527,
+    "timestamp": 1761733265.3205621
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45640838",
+    "url": "https://news.ycombinator.com/item?id=45736479",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 2412.3009680001815,
-    "bytes_read": 2736707,
-    "timestamp": 1761036859.3687093
+    "elapsed_ms": 3299.6178779999354,
+    "bytes_read": 828080,
+    "timestamp": 1761733269.2609675
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45652859",
+    "url": "https://news.ycombinator.com/item?id=45742907",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 388.58202900019023,
-    "bytes_read": 29719,
-    "timestamp": 1761036865.948134
+    "elapsed_ms": 231.06098299967925,
+    "bytes_read": 27257,
+    "timestamp": 1761733270.3509488
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45653350",
+    "url": "https://news.ycombinator.com/item?id=45742419",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 425.75635000002876,
-    "bytes_read": 9126,
-    "timestamp": 1761036866.9325538
+    "elapsed_ms": 476.60410700018474,
+    "bytes_read": 81523,
+    "timestamp": 1761733271.337831
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45632429",
+    "url": "https://news.ycombinator.com/item?id=45744503",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 584.0356610001436,
-    "bytes_read": 115227,
-    "timestamp": 1761036868.0376105
+    "elapsed_ms": 225.46316299985847,
+    "bytes_read": 33666,
+    "timestamp": 1761733272.0939958
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45617948",
+    "url": "https://news.ycombinator.com/item?id=45702397",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 328.11500600018917,
-    "bytes_read": 24960,
-    "timestamp": 1761036869.010916
+    "elapsed_ms": 820.7108199999311,
+    "bytes_read": 225373,
+    "timestamp": 1761733273.4955642
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45584680",
+    "url": "https://news.ycombinator.com/item?id=45742446",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 363.6327459998938,
-    "bytes_read": 7490,
-    "timestamp": 1761036869.9529524
+    "elapsed_ms": 228.47832400020707,
+    "bytes_read": 86317,
+    "timestamp": 1761733274.3132915
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45653330",
+    "url": "https://news.ycombinator.com/item?id=45733707",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 370.33638200000496,
-    "bytes_read": 5646,
-    "timestamp": 1761036870.8341088
+    "elapsed_ms": 1490.072783999949,
+    "bytes_read": 732191,
+    "timestamp": 1761733276.3385491
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45643163",
+    "url": "https://news.ycombinator.com/item?id=45700078",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 929.267007999897,
-    "bytes_read": 421501,
-    "timestamp": 1761036872.2757597
+    "elapsed_ms": 222.5594159999673,
+    "bytes_read": 12029,
+    "timestamp": 1761733277.4137685
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45645349",
+    "url": "https://news.ycombinator.com/item?id=45742616",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 489.10725199993976,
-    "bytes_read": 142221,
-    "timestamp": 1761036873.6314063
+    "elapsed_ms": 456.4452499998879,
+    "bytes_read": 6545,
+    "timestamp": 1761733278.3848345
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45644328",
+    "url": "https://news.ycombinator.com/item?id=45704216",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 559.5073459999185,
-    "bytes_read": 154639,
-    "timestamp": 1761036874.8117108
+    "elapsed_ms": 1123.5748659996716,
+    "bytes_read": 6058,
+    "timestamp": 1761733280.0152483
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45578080",
+    "url": "https://news.ycombinator.com/item?id=45739499",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 377.7430750001258,
-    "bytes_read": 17395,
-    "timestamp": 1761036875.8208342
+    "elapsed_ms": 3273.4081399999013,
+    "bytes_read": 364947,
+    "timestamp": 1761733283.8015232
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45555960",
+    "url": "https://news.ycombinator.com/item?id=45738247",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 280.01661300004344,
-    "bytes_read": 9396,
-    "timestamp": 1761036876.6344995
+    "elapsed_ms": 1125.511698000082,
+    "bytes_read": 293609,
+    "timestamp": 1761733285.5615807
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45571423",
+    "url": "https://news.ycombinator.com/item?id=45739080",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 420.09754899982,
-    "bytes_read": 63166,
-    "timestamp": 1761036877.5783699
+    "elapsed_ms": 498.35192199998346,
+    "bytes_read": 75581,
+    "timestamp": 1761733286.728715
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45647166",
+    "url": "https://news.ycombinator.com/item?id=45740214",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 985.1188070001626,
-    "bytes_read": 447352,
-    "timestamp": 1761036879.1648748
+    "elapsed_ms": 216.6348329997163,
+    "bytes_read": 68023,
+    "timestamp": 1761733287.4808128
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45529120",
+    "url": "https://news.ycombinator.com/item?id=45709499",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 293.5509059998367,
-    "bytes_read": 28920,
-    "timestamp": 1761036878.968992
+    "elapsed_ms": 225.60796800007665,
+    "bytes_read": 25243,
+    "timestamp": 1761733285.7748551
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45645120",
+    "url": "https://news.ycombinator.com/item?id=45733329",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 370.55922999979884,
-    "bytes_read": 44248,
-    "timestamp": 1761036879.899367
+    "elapsed_ms": 1392.3500689998036,
+    "bytes_read": 358643,
+    "timestamp": 1761733287.679679
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45649178",
+    "url": "https://news.ycombinator.com/item?id=45692116",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 918.0051809998986,
-    "bytes_read": 437508,
-    "timestamp": 1761036881.3588316
+    "elapsed_ms": 824.8955459998797,
+    "bytes_read": 230362,
+    "timestamp": 1761733289.1466866
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45582958",
+    "url": "https://news.ycombinator.com/item?id=45736499",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 592.5607930003025,
-    "bytes_read": 190017,
-    "timestamp": 1761036882.8413863
+    "elapsed_ms": 2011.8621420001546,
+    "bytes_read": 295289,
+    "timestamp": 1761733291.8065062
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45650792",
+    "url": "https://news.ycombinator.com/item?id=45741391",
     "method": "GET",
     "status_code": 200,
-    "elapsed_ms": 428.20894899978157,
-    "bytes_read": 16408,
-    "timestamp": 1761036883.9107792
+    "elapsed_ms": 1512.6947959997779,
+    "bytes_read": 45859,
+    "timestamp": 1761733293.929245
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45735877",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 726.839334000033,
+    "bytes_read": 109744,
+    "timestamp": 1761733295.1933866
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45734486",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 685.8036869998614,
+    "bytes_read": 213821,
+    "timestamp": 1761733296.4544907
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45737941",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 487.9404609996527,
+    "bytes_read": 153168,
+    "timestamp": 1761733297.5576074
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45705654",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 245.01150699961727,
+    "bytes_read": 12718,
+    "timestamp": 1761733298.4305084
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45731321",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 2851.1061949998293,
+    "bytes_read": 218224,
+    "timestamp": 1761733301.796621
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45736608",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 585.2252810000209,
+    "bytes_read": 47638,
+    "timestamp": 1761733302.96691
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45734620",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 1234.1503249999732,
+    "bytes_read": 258415,
+    "timestamp": 1761733304.752902
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45734582",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 4010.0922039996476,
+    "bytes_read": 1359634,
+    "timestamp": 1761733309.356802
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45732874",
+    "method": "GET",
+    "status_code": 200,
+    "elapsed_ms": 650.1036380000187,
+    "bytes_read": 274430,
+    "timestamp": 1761733311.1647089
   }
 ]
